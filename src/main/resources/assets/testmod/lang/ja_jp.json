@@ -1,0 +1,5 @@
+{
+  "block.testmod.test_block": "テスト用ブロック",
+  "item.testmod.test_item": "テスト用アイテム",
+  "itemGroup.testmod.testmod": "テスト"
+}
