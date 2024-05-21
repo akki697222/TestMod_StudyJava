@@ -1,5 +1,7 @@
 {
   "block.testmod.test_block": "テスト用ブロック",
+  "block.testmod.akki_think": "考えるあっきーブロック",
   "item.testmod.test_item": "テスト用アイテム",
+  "item.testmod.akki": "あっきー",
   "itemGroup.testmod.testmod": "テスト"
 }
